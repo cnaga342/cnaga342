@@ -2,7 +2,8 @@
 # 💫 About Me:
 I'm a passionate Full Stack Web Developer with a strong foundation in both front-end and back-end technologies. I specialize in building dynamic, responsive, and user-friendly web applications that solve real-world problems.<br><br>Proficient in technologies like HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB, I enjoy working across the stack — from crafting intuitive user interfaces to developing secure and efficient server-side logic.<br>🔭 I’m currently working on Mern Projects<br>👯 I’m looking to collaborate on Team<br>🤝 <br>🌱 I’m currently learning Full stack web development<br>💬 Ask me about HTML, CSS, JavaScript ,Bootstrap ,SASS<br>🤝How to reach out me cnaga342@gmail.com<br>🤝Porfolio:https://pf-mern.vercel.app/
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=cnaga342&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cnaga342/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cnaga342@gmail.com) 
 
@@ -13,8 +14,7 @@ I'm a passionate Full Stack Web Developer with a strong foundation in both front
 ![](https://nirzak-streak-stats.vercel.app/?user=cnaga342&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cnaga342&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cnaga342&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cnaga342&limit=5&theme=dark&combine_all_yearly_contributions=true)
